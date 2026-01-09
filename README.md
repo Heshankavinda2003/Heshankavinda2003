@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Heshan Kavinda! 👋
 
-<!--
-**Heshankavinda2003/Heshankavinda2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 BICT Undergraduate at Uva Wellassa University
 
-Here are some ideas to get you started:
+I am a tech enthusiast from Galle, Sri Lanka, passionate about expanding my skills in software development and engineering. I love diving into new projects and solving complex problems with code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+- 🔭 I’m currently working on: **C Programming Projects**
+- 🌱 I’m currently learning: **Data Structures & Algorithms**
+- 👯 I’m looking to collaborate on: **Open Source & University Projects**
+- 📍 Location: **Galle, Sri Lanka**
+
+### 🛠️ Languages & Tools
+*(Feel free to remove the ones you don't use)*
+- **Languages:** C, C++, HTML/CSS
+- **Tools:** VS Code, Git, GitHub
+- **Interests:** Software Engineering, Web Development
+
+### 📈 GitHub Stats
+![Heshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Heshankavinda2003&show_icons=true&theme=radical)
+
+---
+📫 **How to reach me:** [Insert your email or LinkedIn link here]
+
