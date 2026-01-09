@@ -19,7 +19,7 @@ I am a tech enthusiast from Galle, Sri Lanka, passionate about expanding my skil
 - **Interests:** Software Engineering, Web Development
 
 ### 📈 GitHub Stats
-![Heshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Heshankavinda2003&show_icons=true&theme=radical)
+![Heshan's GitHub stats](https://github.com/Heshankavinda2003)
 
 ---
 📫 **How to reach me:** [Insert your email or LinkedIn link here]
