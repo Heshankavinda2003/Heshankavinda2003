@@ -12,19 +12,25 @@ I am a tech enthusiast from Galle, Sri Lanka, passionate about expanding my skil
 - 👯 I’m looking to collaborate on: **Open Source & University Projects**
 - 📍 Location: **Galle, Sri Lanka**
 
-### 🛠️ Languages & Tools
 
-- **Languages:** C, C++, HTML/CSS, JavaScript
-- **Interests:** Software Engineering, Web Development
 - ### 🛠️ Languages and Tools :
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,react,spring,nextjs,flutter,redux,html,css,js,firebase,mongodb,mysql,nodejs,git" />
+    <img src="https://skillicons.dev/icons?i=java,react,spring,nextjs,redux,html,css,js,firebase,mongodb,mysql,nodejs,git" />
   </a>
 </p>
+- **Interests:** Software Engineering, Web Development
 
 ### 📈 GitHub Stats
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Heshankavinda2003&theme=blue)
+
+### 🔥 My Stats :
+
+<div align="left">
+  <a href="https://github.com/Heshankavinda2003">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Heshankavinda2003&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
+  </a>
+</div>
 
 ---
 📫 **How to reach me:** [heshankavinda2023@gmail.com]
