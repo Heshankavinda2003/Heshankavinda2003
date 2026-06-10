@@ -13,14 +13,19 @@ I am a tech enthusiast from Galle, Sri Lanka, passionate about expanding my skil
 - 📍 Location: **Galle, Sri Lanka**
 
 ### 🛠️ Languages & Tools
-*(Feel free to remove the ones you don't use)*
-- **Languages:** C, C++, HTML/CSS
-- **Tools:** VS Code, Git, GitHub
+
+- **Languages:** C, C++, HTML/CSS, JavaScript
 - **Interests:** Software Engineering, Web Development
+- ### 🛠️ Languages and Tools :
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,react,spring,nextjs,flutter,redux,html,css,js,firebase,mongodb,mysql,nodejs,git" />
+  </a>
+</p>
 
 ### 📈 GitHub Stats
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Heshankavinda2003&theme=blue)
 
 ---
-📫 **How to reach me:** [Insert your email or LinkedIn link here]
+📫 **How to reach me:** [heshankavinda2023@gmail.com]
 
